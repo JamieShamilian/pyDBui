@@ -16,6 +16,11 @@ IGDB api-db
 
 https://pypi.org/project/igdb-api-v4/
 
+Tkinter
+
+https://docs.python.org/3/library/tkinter.html
+
+
 
 common python packages request, json , tkinter, google protobuf
 
