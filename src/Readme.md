@@ -17,7 +17,7 @@ IGDB api-db
 https://pypi.org/project/igdb-api-v4/
 
 
-common packages request, json , google protobuf
+common python packages request, json , tkinter, google protobuf
 
 
 run instruction ( all python source in currernt directory )
