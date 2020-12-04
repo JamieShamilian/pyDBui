@@ -19,3 +19,10 @@ https://pypi.org/project/igdb-api-v4/
 
 common packages request, json , google protobuf
 
+
+run instruction ( all python source in currernt directory )
+
+python pyDBui.py
+
+
+
