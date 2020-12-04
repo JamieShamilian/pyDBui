@@ -2,15 +2,15 @@
 pyDBui
 
 
-doc 
+  doc 
 
-reports 
+      reports 
 
-images
+  images
 
-screenshots and demo video
+      screenshots and demo video
 
-src
+  src
 
-python source code
+      python source code
 
