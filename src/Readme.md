@@ -30,4 +30,5 @@ run instruction ( all python source in currernt directory )
 python pyDBui.py
 
 
+note * query_callback.py containes access token to igdb databse and is only good for 60 days.
 
